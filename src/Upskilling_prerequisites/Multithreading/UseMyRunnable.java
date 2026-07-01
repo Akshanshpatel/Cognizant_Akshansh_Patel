@@ -1,4 +1,4 @@
-package Multithreading;
+package Upskilling_prerequisites.Multithreading;
 
 class myRun1 implements Runnable{
     public void run(){

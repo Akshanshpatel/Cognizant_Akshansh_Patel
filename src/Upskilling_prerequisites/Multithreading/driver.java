@@ -1,6 +1,4 @@
-package Multithreading;
-
-import java.util.ArrayList;
+package Upskilling_prerequisites.Multithreading;
 
 public class driver {
     public static void main(String[] args) {

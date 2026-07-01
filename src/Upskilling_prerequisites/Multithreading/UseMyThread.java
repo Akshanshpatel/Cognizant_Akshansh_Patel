@@ -1,4 +1,4 @@
-package Multithreading;
+package Upskilling_prerequisites.Multithreading;
 
 class MyThread extends Thread{
     public MyThread(String name){
