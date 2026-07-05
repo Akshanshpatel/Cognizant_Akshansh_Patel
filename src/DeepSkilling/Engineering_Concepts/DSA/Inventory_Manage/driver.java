@@ -91,3 +91,12 @@ public class driver{
         d_mart.displayProducts();
     }
 }
+
+// -----ANALYSIS------
+
+// Current time complexity of operations and how to optimize them?
+
+//  Current operations like updating ,deleting and displaying of product takes average O(n) and adding O(1)
+//  This can work for small inventories but for ones having millions of products
+//  we can optimize it by using Hashmap which will give O(1) constant time complexity for all operations
+//  ex- HashMap<Product,id>=new HashMap<>()
