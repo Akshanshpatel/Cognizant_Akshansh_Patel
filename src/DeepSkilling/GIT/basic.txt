@@ -1,0 +1,30 @@
+For GIT hol-1
+    I have already setup Git & this repo on github as working proof of basic commands:
+
+    git init (To add a git file in order to mark changes and version control locally)
+
+    git remote add origin "LINK of repo ex-Github repo" where changes needs to be updated
+
+    1- git add. (Adding all current changes)
+    2- git commit -m "Changes summary in brief"
+    3- git push -u origin master( setting up upstream as master for later only git push needed)
+
+    4- git branch (List all local branches)
+    5- git branch -a (List remote and local branches)
+    6- git checkout -b branch_name (create and switch to new branch)
+    7- git switch or git checkout branch_name (change to branch_name)
+    8- git branch br_name (create new branch)
+
+    if want to change name (master->main) --> git branch -m master main
+
+
+For GIT hol-2
+
+    .gitignore is a file added by this exact name in the main folder
+    in order to hide things from git & github
+    ex- .env variables (Sensitive information) are not meant to be shared
+    so they are simply put inside .gitignore as .env
+
+
+For GIT hol-3
+
