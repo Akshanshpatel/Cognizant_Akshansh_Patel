@@ -29,3 +29,8 @@ For GIT hol-2
 For GIT hol-3
 
     made new branch added this file into it, merged it with master and safely deleted new branch
+
+Some other commands-->
+
+    9- git rm -r --cached file/folder_name   (removes particular from git tracking(github) not from local)
+                                             ( if something wrong uploaded and u want it removed)
