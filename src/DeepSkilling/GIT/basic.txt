@@ -28,3 +28,4 @@ For GIT hol-2
 
 For GIT hol-3
 
+    made new branch added this file into it, merged it with master and safely deleted new branch

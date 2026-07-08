@@ -3,6 +3,12 @@ out/
 !**/src/main/**/out/
 !**/src/test/**/out/
 **/src/Java FSE
+.idea/
+*.iml
+
+# maven
+target/
+maven/src/test
 
 ### Eclipse ###
 .apt_generated
