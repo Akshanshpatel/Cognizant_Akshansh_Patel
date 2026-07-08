@@ -5,5 +5,5 @@ out/
 *.iml
 
 # maven
-maven/target/
-maven/src/test
+hibernate_Class/target/
+hibernate_Class/src/test
