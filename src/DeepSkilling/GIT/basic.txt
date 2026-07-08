@@ -9,6 +9,12 @@ For GIT hol-1
     2- git commit -m "Changes summary in brief"
     3- git push -u origin master( setting up upstream as master for later only git push needed)
 
+    4- git branch (List all local branches)
+    5- git branch -a (List remote and local branches)
+    6- git checkout -b branch_name (create and switch to new branch)
+    7- git switch or git checkout branch_name (change to branch_name)
+    8- git branch br_name (create new branch)
+
     if want to change name (master->main) --> git branch -m master main
 
 
