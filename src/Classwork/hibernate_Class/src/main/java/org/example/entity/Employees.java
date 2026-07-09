@@ -1,4 +1,4 @@
-package org.example.entity;
+package Classwork.hibernate_Class.src.main.java.org.example.entity;
 
 import jakarta.persistence.Entity;
 import jakarta.persistence.Id;

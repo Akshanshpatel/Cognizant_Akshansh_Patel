@@ -5,7 +5,7 @@ import java.sql.DriverManager;
 import java.sql.ResultSet;
 import java.sql.Statement;
 
-public class jdbc {
+public class jdbc_basics {
     public static void main(String[] args) {
         String url = "jdbc:mysql://localhost:3306/ott_db";
         String user = "root";
