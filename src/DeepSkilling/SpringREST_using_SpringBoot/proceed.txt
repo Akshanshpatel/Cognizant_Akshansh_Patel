@@ -1,0 +1,18 @@
+In order to understand working configuration and making of a Spring Boot application
+I am making a Smart Contact Manager with Spring Boot module as backend and react as frontend
+
+    This Application will include-->
+1- Spring REST Architecture making endpoints
+2- Swagger OpenAi documentation for those endpoints
+3- Spring Security implementing JWT token based authentification
+4- Spring Core concepts like Bean Configuration, IOC
+5- Using Maven as build tool and following folder structure as that of production based applications
+6- Integrating react with springboot
+7- Using Postman for api's testing
+8- Implementing a Generic Api response template
+
+    This file will be updated as the ongoing work for that application proceeds
+
+    **Github link for that repo--> https://github.com/Akshanshpatel/scm
+
+some ongoing progress in images attached
