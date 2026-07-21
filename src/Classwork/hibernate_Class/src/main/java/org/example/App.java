@@ -1,4 +1,4 @@
-package Classwork.hibernate_Class.src.main.java.org.example;
+package org.example;
 
 import org.example.entity.Employees;
 import org.hibernate.Session;
